@@ -1,6 +1,6 @@
-# 450-Coding-Questions
+# 450-Compitative Programming-Questions
 
--**GeeksforGeeks:**https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/
+- **GeeksforGeeks:** https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/
 
 ## TRACK YOUR PROGRESS: 
 
@@ -12,4 +12,3 @@
 - **Sheet Link**: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 - **DSA Tracker** https://github.com/AsishRaju/450-DSA
 - **credits:** https://github.com/Aayushi-Mittal/450-Coding-Questions-LoveBabbar
-
